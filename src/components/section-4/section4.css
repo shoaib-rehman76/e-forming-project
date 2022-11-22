@@ -1,0 +1,13 @@
+.section-text h3 {
+  font-size: 2.3rem;
+  line-height: 3.2rem;
+  font-weight: 600;
+  margin-top: 5rem;
+}
+.section-text p {
+  line-height: 2rem;
+  text-align: justify;
+}
+.section-4 img {
+  width: 100%;
+}

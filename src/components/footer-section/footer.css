@@ -1,0 +1,30 @@
+.footer h2 {
+  font-weight: 800;
+}
+.footer button {
+  border: none;
+  background-color: var(--primary-color);
+  padding: 0.8rem 1.5rem;
+  margin-top: 1rem;
+  color: var(--color-white);
+  font-weight: 600;
+  border-radius: 100px;
+}
+.footer h5 {
+  font-weight: 800;
+  font-size: 1.1rem;
+  color: gray;
+}
+.footer ul li {
+  margin: 0.8rem 0;
+  font-weight: 500;
+  color: rgb(85, 85, 85);
+}
+.footer-end img {
+  width: 50%;
+}
+.footer-end i {
+  margin: 0 1rem !important;
+  font-size: 1.5rem;
+  color: var(--primary-color);
+}

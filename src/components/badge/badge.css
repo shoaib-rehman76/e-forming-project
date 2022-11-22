@@ -1,0 +1,25 @@
+.badge {
+  position: fixed;
+  top: 85%;
+  right: 3%;
+  background-color: var(--color-dark);
+  width: 25%;
+  padding: 0.7rem;
+  border-radius: 10px;
+  z-index: 999;
+}
+.badge img {
+  background-color: var(--primary-color);
+  width: 17%;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+.badge button {
+  border: none;
+  background-color: var(--primary-color);
+  padding: 0.8rem 1.2rem;
+  font-weight: 700;
+  font-size: 0.9rem;
+  border-radius: 100px;
+  color: var(--color-white);
+}
