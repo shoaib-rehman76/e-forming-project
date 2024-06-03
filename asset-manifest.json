@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.78ed5f43.css",
+    "main.js": "/react-gh-pages/static/js/main.34c6c200.js",
+    "static/media/4.jpg": "/react-gh-pages/static/media/4.43f4e4a4836ec1f49a5f.jpg",
+    "static/media/2.jpg": "/react-gh-pages/static/media/2.d9973e758a43214ea6ed.jpg",
+    "static/media/3.jpg": "/react-gh-pages/static/media/3.318a25469637d331862f.jpg",
+    "static/media/E-Learning.png": "/react-gh-pages/static/media/E-Learning.de90a854f116f93dbe40.png",
+    "static/media/Hardware.png": "/react-gh-pages/static/media/Hardware.df0232f1b07914d7c7f1.png",
+    "static/media/Middleman1.png": "/react-gh-pages/static/media/Middleman1.cba0f0cfd0ea054b5d62.png",
+    "static/media/Order Successful.png": "/react-gh-pages/static/media/Order Successful.bfaf7e0ac16f36d2432a.png",
+    "static/media/FD Logo JPG.jpg": "/react-gh-pages/static/media/FD Logo JPG.cdfde43f906a712bbbba.jpg",
+    "static/media/Logistics.png": "/react-gh-pages/static/media/Logistics.4da772b486de62ff7856.png",
+    "static/media/Farmers Profile.png": "/react-gh-pages/static/media/Farmers Profile.29c792bea23e5bd1b0a6.png",
+    "static/media/FD Logo PNG.png": "/react-gh-pages/static/media/FD Logo PNG.3b55d4ef307e04ee9838.png",
+    "static/media/bg.png": "/react-gh-pages/static/media/bg.b942ec56d7571d2ce7bd.png",
+    "static/media/Green.png": "/react-gh-pages/static/media/Green.97fcafbe6e46c62adf6d.png",
+    "static/media/Minimal White.png": "/react-gh-pages/static/media/Minimal White.911f0391f8b1de73688b.png",
+    "static/media/Black.png": "/react-gh-pages/static/media/Black.89a84409c827b21c349d.png",
+    "static/media/Hardware Stores.png": "/react-gh-pages/static/media/Hardware Stores.60be33ceed2c6f14c472.png",
+    "static/media/Blue.png": "/react-gh-pages/static/media/Blue.836f3f2311e7730df5b5.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.78ed5f43.css.map": "/react-gh-pages/static/css/main.78ed5f43.css.map",
+    "main.34c6c200.js.map": "/react-gh-pages/static/js/main.34c6c200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ed5f43.css",
+    "static/js/main.34c6c200.js"
+  ]
+}
