@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/e-forming-project/static/css/main.b07edfca.css",
-    "main.js": "/e-forming-project/static/js/main.00203555.js",
+    "main.css": "/e-forming-project/static/css/main.ed44a732.css",
+    "main.js": "/e-forming-project/static/js/main.3a5dc112.js",
     "static/media/4.jpg": "/e-forming-project/static/media/4.43f4e4a4836ec1f49a5f.jpg",
     "static/media/2.jpg": "/e-forming-project/static/media/2.d9973e758a43214ea6ed.jpg",
     "static/media/3.jpg": "/e-forming-project/static/media/3.318a25469637d331862f.jpg",
@@ -20,11 +20,11 @@
     "static/media/Hardware Stores.png": "/e-forming-project/static/media/Hardware Stores.60be33ceed2c6f14c472.png",
     "static/media/Blue.png": "/e-forming-project/static/media/Blue.836f3f2311e7730df5b5.png",
     "index.html": "/e-forming-project/index.html",
-    "main.b07edfca.css.map": "/e-forming-project/static/css/main.b07edfca.css.map",
-    "main.00203555.js.map": "/e-forming-project/static/js/main.00203555.js.map"
+    "main.ed44a732.css.map": "/e-forming-project/static/css/main.ed44a732.css.map",
+    "main.3a5dc112.js.map": "/e-forming-project/static/js/main.3a5dc112.js.map"
   },
   "entrypoints": [
-    "static/css/main.b07edfca.css",
-    "static/js/main.00203555.js"
+    "static/css/main.ed44a732.css",
+    "static/js/main.3a5dc112.js"
   ]
 }
